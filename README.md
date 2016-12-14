@@ -1,2 +1,2 @@
 # emodbSER
-Speech Emotion Recognition on speech data of emoDB
+This project aims to realize Speech Emotion Recognition task on speech data of [emoDB](http://emodb.bilderbar.info/docu/) using deep convolutional neural network technique. With the help of autoencoder technique to pretrain the network, compared to the Convolutional Neural Network without pretraining our structure could improve the recognition accuracy from 20% to 60%. The Neural Networks are implemented based on [Keras](https://keras.io/) framework.
